@@ -1,2 +1,2 @@
 # CS50-pset
-Pset storagr for class
+Pset storage for class
